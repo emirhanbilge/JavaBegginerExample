@@ -24,4 +24,4 @@ public class Node {
 		this.next = next;
 	}
 
-}
+}deneme2
