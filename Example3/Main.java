@@ -3,3 +3,4 @@ public class Main {
 		Background.game_function();
 	}
 }
+deneme
